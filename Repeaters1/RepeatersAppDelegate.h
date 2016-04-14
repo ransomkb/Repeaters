@@ -12,4 +12,7 @@
 
 @property (strong, nonatomic) UIWindow *window;
 
+//was going to use below for shared app, but will use delegate instead
+//@property (strong, nonatomic) NSDictionary *settingsInfo;
+
 @end
